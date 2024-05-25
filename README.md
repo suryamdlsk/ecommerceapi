@@ -60,7 +60,7 @@ API documentation is available at `http://localhost:8000/api/documentation`.
 
 ### API Endpoints
 
-- `GET /api/products` - List all products
+- `GET /api/products-list` - List all products
 - `POST /api/products` - Create a new product
 - `GET /api/products/{id}` - Get a product by ID
 - `PUT /api/products/{id}` - Update a product by ID
